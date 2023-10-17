@@ -1,0 +1,15 @@
+C:\Users\arkin\Desktop\C#PROJECTS\thread2Hw\bin\Debug\net7.0\thread2Hw.exe
+C:\Users\arkin\Desktop\C#PROJECTS\thread2Hw\bin\Debug\net7.0\thread2Hw.deps.json
+C:\Users\arkin\Desktop\C#PROJECTS\thread2Hw\bin\Debug\net7.0\thread2Hw.runtimeconfig.json
+C:\Users\arkin\Desktop\C#PROJECTS\thread2Hw\bin\Debug\net7.0\thread2Hw.dll
+C:\Users\arkin\Desktop\C#PROJECTS\thread2Hw\bin\Debug\net7.0\thread2Hw.pdb
+C:\Users\arkin\Desktop\C#PROJECTS\thread2Hw\obj\Debug\net7.0\thread2Hw.csproj.AssemblyReference.cache
+C:\Users\arkin\Desktop\C#PROJECTS\thread2Hw\obj\Debug\net7.0\thread2Hw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arkin\Desktop\C#PROJECTS\thread2Hw\obj\Debug\net7.0\thread2Hw.AssemblyInfoInputs.cache
+C:\Users\arkin\Desktop\C#PROJECTS\thread2Hw\obj\Debug\net7.0\thread2Hw.AssemblyInfo.cs
+C:\Users\arkin\Desktop\C#PROJECTS\thread2Hw\obj\Debug\net7.0\thread2Hw.csproj.CoreCompileInputs.cache
+C:\Users\arkin\Desktop\C#PROJECTS\thread2Hw\obj\Debug\net7.0\thread2Hw.dll
+C:\Users\arkin\Desktop\C#PROJECTS\thread2Hw\obj\Debug\net7.0\refint\thread2Hw.dll
+C:\Users\arkin\Desktop\C#PROJECTS\thread2Hw\obj\Debug\net7.0\thread2Hw.pdb
+C:\Users\arkin\Desktop\C#PROJECTS\thread2Hw\obj\Debug\net7.0\thread2Hw.genruntimeconfig.cache
+C:\Users\arkin\Desktop\C#PROJECTS\thread2Hw\obj\Debug\net7.0\ref\thread2Hw.dll
